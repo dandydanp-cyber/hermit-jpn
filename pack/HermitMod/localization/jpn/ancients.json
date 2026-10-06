@@ -1,0 +1,20 @@
+{
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.0-0r.char": "[b]大した家を建てたもんだ。[/b]\n上へ行くほど意地が悪くなる。どこかを思い出すぜ。",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.0-0r.next": "続ける",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.0-1r.ancient": "銃使いか。粗野で、奔放で、一世紀も時代遅れだ。スパイアは設計図であり、お前はそこに紛れ込んだ染みに過ぎない。",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.0-1r.next": "返答する",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.0-2r.char": "もっとマシな奴らにもっとひどい呼ばれ方をしてきたさ。\n……それでも、まだ消されちゃいねえがな。",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.0-attack": "両方",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.1-0r.ancient": "戻ったか。同じ埃、同じコート、後ろには同じ死者たち。\n奴らは一度でも、お前に立ち止まれと言ったか?",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.1-0r.next": "装填する",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.1-1r.char": "毎晩な。\n[b]だが、まだ聞いちゃいねえ。[/b]",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.1-1r.next": "続ける",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.1-2r.ancient": "感傷か。鉛より重いくせに、一度たりとも銃弾を止めたことはない。",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.1-attack": "両方",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.2-0r.ancient": "この階層がお前を飲み込み続けて、何度目だ? 教訓が身に染みるまで、あと何度かかる?",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.2-0r.next": "返答する",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.2-1r.char": "あんたが階段を作り続ける限り……\n俺はそれをすり減らし続けるさ。",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.2-1r.next": "続ける",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.2-2r.ancient": "[jitter][red]ならば、掃き捨てられるがいい。[/red][/jitter]",
+  "THE_ARCHITECT.talk.HERMITMOD-HERMIT.2-attack": "両方"
+}

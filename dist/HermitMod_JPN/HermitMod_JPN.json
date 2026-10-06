@@ -1,0 +1,16 @@
+{
+  "id": "HermitMod_JPN",
+  "name": "The Hermit 日本語化",
+  "author": "danli",
+  "description": "The Hermit MODの日本語ローカライズ(カード・レリック・パワー・キーワード・建築家との会話)。",
+  "version": "v1.0.0",
+  "has_pck": true,
+  "has_dll": false,
+  "dependencies": [
+    {
+      "id": "HermitMod",
+      "min_version": "v1.5.0"
+    }
+  ],
+  "affects_gameplay": false
+}

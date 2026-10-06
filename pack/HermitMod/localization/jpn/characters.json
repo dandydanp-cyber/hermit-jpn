@@ -1,0 +1,17 @@
+{
+  "HERMITMOD-HERMIT.title": "ハーミット",
+  "HERMITMOD-HERMIT.titleObject": "ハーミット",
+  "HERMITMOD-HERMIT.description": "無法の時代から来た、過去に苛まれる疲れた射手。\n手札のカードの位置を操り、致命的な[gold]デッドオン[/gold]効果を発動させる。",
+  "HERMITMOD-HERMIT.pronounSubject": "彼",
+  "HERMITMOD-HERMIT.pronounObject": "彼",
+  "HERMITMOD-HERMIT.possessiveAdjective": "彼の",
+  "HERMITMOD-HERMIT.pronounPossessive": "彼の",
+  "HERMITMOD-HERMIT.goldMonologue": "[sine]この金があれば……弾薬くらいは買えるか……[/sine]",
+  "HERMITMOD-HERMIT.eventDeathPrevention": "まだだ……やり残したことがある……",
+  "HERMITMOD-HERMIT.aromaPrinciple": "[sine][blue]……火薬の匂い……[/blue][/sine]",
+  "HERMITMOD-HERMIT.cardsModifierTitle": "ハーミットのカード",
+  "HERMITMOD-HERMIT.cardsModifierDescription": "報酬やショップにハーミットのカードが出現するようになる。",
+  "HERMITMOD-HERMIT.banter.alive.endTurnPing": "……",
+  "HERMITMOD-HERMIT.banter.dead.endTurnPing": "……",
+  "HERMITMOD-HERMIT.unlockText": "[pink]{Prerequisite}[/pink]で1回プレイして、このキャラクターをアンロック。"
+}

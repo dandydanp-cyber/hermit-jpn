@@ -1,0 +1,16 @@
+{
+  "HERMITMOD-DEAD_ON.title": "デッドオン",
+  "HERMITMOD-DEAD_ON.description": "デッドオンのカードは、手札の中央にあるとボーナス効果を発揮する。",
+  "HERMITMOD-DEADON.title": "デッドオン",
+  "HERMITMOD-DEADON.description": "デッドオンのカードは、手札の中央にあるとボーナス効果を発揮する。",
+  "HERMITMOD-CONCENTRATE.title": "集中",
+  "HERMITMOD-CONCENTRATE.description": "集中している間にプレイした次のデッドオンカードは、位置に関係なく効果を発動する。ターン終了時に解除される。",
+  "HERMITMOD-BRUISE.title": "打撲",
+  "HERMITMOD-BRUISE.description": "打撲状態の対象は、ハーミットから追加のアタックダメージを受ける。ターン終了時に解除される。",
+  "HERMITMOD-RUGGED.title": "頑強",
+  "HERMITMOD-RUGGED.description": "次に受けるアタックダメージを2に軽減する。",
+  "HERMITMOD-BOUNTY.title": "賞金",
+  "HERMITMOD-BOUNTY.description": "通常の敵: 15ゴールド。エリート: 40ゴールド。ボス: 100ゴールド。",
+  "HERMITMOD-STUN.title": "スタン",
+  "HERMITMOD-STUN.description": "スタンした敵は自分のターンを飛ばす。"
+}
