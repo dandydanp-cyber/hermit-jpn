@@ -149,7 +149,7 @@
   "HERMITMOD-EYE_OF_THE_STORM.title": "嵐の目",
   "HERMITMOD-EYE_OF_THE_STORM.description": "[gold]集中[/gold]する。\nエナジーを最大まで回復する。",
   "HERMITMOD-FINAL_CANTER.title": "最後の駆け足",
-  "HERMITMOD-FINAL_CANTER.description": "手札の呪い1枚につき{ExtraDamage:diff()}ダメージを与える。\n{InCombat:現在の合計ダメージ: {CalculatedDamage:diff()}。|}",
+  "HERMITMOD-FINAL_CANTER.description": "手札の呪い1枚につき{ExtraDamage:diff()}ダメージを与える。\n{InCombat:(現在は合計{CalculatedDamage:diff()}ダメージ)|}",
   "HERMITMOD-HEROIC_BRAVADO.title": "勇者の虚勢",
   "HERMITMOD-HEROIC_BRAVADO.description": "[gold]頑強[/gold]1を得る。\nこの戦闘中、このカードのコストが{IfUpgraded:show:1|2}増える。",
   "HERMITMOD-FROM_BEYOND.title": "彼方より",

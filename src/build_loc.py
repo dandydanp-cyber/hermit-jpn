@@ -87,7 +87,7 @@ C = {
 "HOLE_UP": ("立てこもり", "{Block:diff()}[gold]ブロック[/gold]を得る。\n[gold]脱力[/gold]{WeakPower:diff()}を得る。"),
 "ITCHY_TRIGGER": ("疼く引き金", "{Damage:diff()}ダメージを与える。\n" + DO + ": このターン、手札のランダムなカード1枚のコストを{IfUpgraded:show:2|1}減らす。"),
 "EYE_OF_THE_STORM": ("嵐の目", "[gold]集中[/gold]する。\nエナジーを最大まで回復する。"),
-"FINAL_CANTER": ("最後の駆け足", "手札の呪い1枚につき{ExtraDamage:diff()}ダメージを与える。\n{InCombat:現在の合計ダメージ: {CalculatedDamage:diff()}。|}"),
+"FINAL_CANTER": ("最後の駆け足", "手札の呪い1枚につき{ExtraDamage:diff()}ダメージを与える。\n{InCombat:(現在は合計{CalculatedDamage:diff()}ダメージ)|}"),
 "HEROIC_BRAVADO": ("勇者の虚勢", "[gold]頑強[/gold]1を得る。\nこの戦闘中、このカードのコストが{IfUpgraded:show:1|2}増える。"),
 "FROM_BEYOND": ("彼方より", "[gold]廃棄札[/gold]のカード1枚につき、ランダムな敵がHPを{HpLoss:diff()}失う。"),
 "VIRTUE": ("美徳", "自分にかかっているすべてのデバフを{IfUpgraded:show:2|1}減らす。"),
