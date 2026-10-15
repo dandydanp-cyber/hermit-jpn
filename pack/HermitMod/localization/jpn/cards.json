@@ -55,7 +55,7 @@
   "HERMITMOD-MIDNIGHT.title": "真夜中",
   "HERMITMOD-MIDNIGHT.description": "{Block:diff()}[gold]ブロック[/gold]を得る。\n[gold]迫りくる破滅[/gold]を1枚手札に加える。",
   "HERMITMOD-GLARE.title": "睨みつけ",
-  "HERMITMOD-GLARE.description": "[gold]脱力[/gold]{WeakPower:diff()}と[gold]弱体[/gold]を付与する。",
+  "HERMITMOD-GLARE.description": "[gold]脱力[/gold]と[gold]弱体[/gold]をそれぞれ{WeakPower:diff()}付与する。",
   "HERMITMOD-TAKE_COVER.title": "遮蔽物へ",
   "HERMITMOD-TAKE_COVER.description": "コスト0の[gold]防御[/gold]を1枚手札に加え、それをX{IfUpgraded:show:+1|}回アップグレードする。",
   "HERMITMOD-MISFIRE.title": "不発",

@@ -41,7 +41,7 @@ C = {
 "FLASH_POWDER": ("閃光粉", "{Block:diff()}[gold]ブロック[/gold]を得る。\nすべての敵の[gold]筋力[/gold]を{IfUpgraded:show:2|1}下げる。"),
 "ROULETTE": ("ルーレット", "{Damage:diff()}ダメージを与える。\n手札をすべて捨てる。\n同じ枚数のカードを引く。"),
 "MIDNIGHT": ("真夜中", "{Block:diff()}[gold]ブロック[/gold]を得る。\n[gold]迫りくる破滅[/gold]を1枚手札に加える。"),
-"GLARE": ("睨みつけ", "[gold]脱力[/gold]{WeakPower:diff()}と[gold]弱体[/gold]を付与する。"),
+"GLARE": ("睨みつけ", "[gold]脱力[/gold]と[gold]弱体[/gold]をそれぞれ{WeakPower:diff()}付与する。"),
 "TAKE_COVER": ("遮蔽物へ", "コスト0の[gold]防御[/gold]を1枚手札に加え、それをX{IfUpgraded:show:+1|}回アップグレードする。"),
 "MISFIRE": ("不発", "{Damage:diff()}ダメージを与える。\n[gold]不器用[/gold]を1枚[gold]山札[/gold]に混ぜる。"),
 "SPRAY_PRAY": ("乱射", "ランダムな敵に{Damage:diff()}ダメージを3回与える。\n[gold]疑念[/gold]を1枚[gold]山札[/gold]に混ぜる。"),
