@@ -131,7 +131,7 @@
   "HERMITMOD-SHOWDOWN.title": "決闘",
   "HERMITMOD-SHOWDOWN.description": "{Damage:diff()}ダメージを与える。\n手札の[gold]ストライク[/gold]をすべてプレイする。",
   "HERMITMOD-LUCK_OF_THE_DRAW.title": "引きの強さ",
-  "HERMITMOD-LUCK_OF_THE_DRAW.description": "合計コストが{IfUpgraded:show:4|3}以上になるまでカードを引く。",
+  "HERMITMOD-LUCK_OF_THE_DRAW.description": "引いたカードの合計コストが{IfUpgraded:show:4|3}以上になるまで、カードを引き続ける。",
   "HERMITMOD-COALESCENCE.title": "結合",
   "HERMITMOD-COALESCENCE.description": "{Block:diff()}[gold]ブロック[/gold]を得る。\nこのターン、最大{CoalescencePower:diff()}枚のカードを[gold]保留[/gold]する。",
   "HERMITMOD-PISTOL_WHIP.title": "ピストルウィップ",

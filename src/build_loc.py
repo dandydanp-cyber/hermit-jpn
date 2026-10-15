@@ -78,7 +78,7 @@ C = {
 "MAGNUM": ("マグナム", "カードを6枚捨てる。\n捨てたカード1枚につき{Damage:diff()}ダメージを与える。"),
 "DETERMINATION": ("決意", "自分にデバフが付与されるたび、[gold]筋力[/gold]1を得る。"),
 "SHOWDOWN": ("決闘", "{Damage:diff()}ダメージを与える。\n手札の[gold]ストライク[/gold]をすべてプレイする。"),
-"LUCK_OF_THE_DRAW": ("引きの強さ", "合計コストが{IfUpgraded:show:4|3}以上になるまでカードを引く。"),
+"LUCK_OF_THE_DRAW": ("引きの強さ", "引いたカードの合計コストが{IfUpgraded:show:4|3}以上になるまで、カードを引き続ける。"),
 "COALESCENCE": ("結合", "{Block:diff()}[gold]ブロック[/gold]を得る。\nこのターン、最大{CoalescencePower:diff()}枚のカードを[gold]保留[/gold]する。"),
 "PISTOL_WHIP": ("ピストルウィップ", "{Damage:diff()}ダメージを与える。\n[gold]打撲[/gold]{BruisePower:diff()}を付与する。"),
 "DEAD_MANS_HAND": ("死者の手札", "手札をすべて捨てる。\n[gold]山札[/gold]から最もレアリティの高いカードを{Cards:diff()}枚手札に加える。"),
